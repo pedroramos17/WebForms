@@ -59,6 +59,10 @@
                     </div>
 
                     <div class="control">
+                        <button id="btn-consultar" class="button is-link">Consultar</button>
+                    </div>
+
+                    <div class="control">
                         <button class="button is-link is-light">Cancelar</button>
                     </div>
             </form>
