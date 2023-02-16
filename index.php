@@ -55,7 +55,7 @@
                 <div class="field is-grouped">
                 
                     <div class="control">
-                        <button class="button is-link">Consultar</button>
+                        <button id="btn-cadastrar" class="button is-link">Cadastrar</button>
                     </div>
 
                     <div class="control">
